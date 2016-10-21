@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-blerchin",
-  "version": "0.11.1",
+  "version": "0.12.1",
   "description": "An eslint configuration",
   "repositiory": "https://github.com/blerchin/eslint-config-blerchin.git",
   "main": "index.js",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {},
   "peerDependencies": {
-    "eslint": "1.*",
-    "eslint-plugin-mocha": "1.*"
+    "eslint": "3.*",
+    "eslint-plugin-mocha": "4.*"
   }
 }
