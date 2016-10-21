@@ -2,8 +2,9 @@
   "name": "eslint-config-blerchin",
   "version": "0.11.1",
   "description": "An eslint configuration",
+  "repositiory": "https://github.com/blerchin/eslint-config-blerchin.git",
   "main": "index.js",
-  "author": "Ben Lerchin <ben@slerchin.com>",
+  "author": "Ben Lerchin <ben@lerchin.com>",
   "license": "MIT",
   "dependencies": {},
   "peerDependencies": {
