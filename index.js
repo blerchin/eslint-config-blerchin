@@ -159,22 +159,16 @@ const stylistic = {
   semi: 2,
 
   // Always use a space after keywords
-  'space-after-keywords': 2,
+  'keyword-spacing': 2,
 
   // Disallow space before function parentheses
   'space-before-function-paren': [2, 'never'],
-
-  // Always use a space before keywords
-  'space-before-keywords': 2,
 
   // Never use leading/trailing spaces in parentheses
   'space-in-parens': 2,
 
   // Use spaces around infix operators
   'space-infix-ops': 2,
-
-  // Use spaces following certain keywords
-  'space-return-throw-case': 2,
 
   // Use spaces following unary operators (e.g. `new`)
   'space-unary-ops': 2,
