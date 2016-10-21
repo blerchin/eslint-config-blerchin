@@ -1,0 +1,13 @@
+{
+  "name": "eslint-config-blerchin",
+  "version": "0.11.1",
+  "description": "An eslint configuration",
+  "main": "index.js",
+  "author": "Ben Lerchin <ben@slerchin.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "peerDependencies": {
+    "eslint": "1.*",
+    "eslint-plugin-mocha": "1.*"
+  }
+}
