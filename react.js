@@ -15,6 +15,7 @@ const rules = Object.assign({}, babel.rules, {
   'react/jsx-space-before-closing': 2,
   'react/jsx-uses-react': 2,
   'react/jsx-uses-vars': 2,
+  'react/jsx-wrap-multilines': 2,
   'react/no-did-mount-set-state': 2,
   'react/no-did-update-set-state': 2,
   'react/no-multi-comp': 2,
@@ -23,8 +24,7 @@ const rules = Object.assign({}, babel.rules, {
   'react/react-in-jsx-scope': 2,
   'react/self-closing-comp': 2,
   'react/sort-comp': [2, { order: [ 'static-methods', 'lifecycle', 'everything-else' ]}],
-  'react/sort-prop-types': 2,
-  'react/wrap-multilines': 2
+  'react/sort-prop-types': 2
 });
 
 module.exports = Object.assign({}, babel, {
