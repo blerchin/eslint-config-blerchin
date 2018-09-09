@@ -8,6 +8,8 @@
   "license": "MIT",
   "dependencies": {},
   "peerDependencies": {
-    "eslint": "4.*"
+    "eslint": "4.*",
+    "eslint-plugin-mocha": "5.*",
+    "eslint-plugin-react": "7.*"
   }
 }
