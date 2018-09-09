@@ -8,6 +8,6 @@
   "license": "MIT",
   "dependencies": {},
   "peerDependencies": {
-    "eslint": "3.*"
+    "eslint": "4.*"
   }
 }
